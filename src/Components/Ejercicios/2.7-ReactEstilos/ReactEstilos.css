@@ -1,0 +1,73 @@
+.Container {
+    font-size: 20px;
+}
+
+.Header-Container {
+  display: flex;
+  width: 100vw;
+  height: 60px;
+}
+
+.logo {
+  width: 100px;
+  background-color: red;
+}
+
+.Website-Heading {
+  width: 100vw;
+  background-color: darkgreen;
+}
+
+.Menu {
+  display: block;
+  background-color: yellow;
+  height: 40px;
+}
+
+.Sections {
+  display: flex;
+  height: 120px;
+}
+
+.s1 {
+  background-color: blue;
+  width: 33.33%;
+}
+
+.s2 {
+  background-color: gray;
+  width: 33.33%;
+}
+
+.s3 {
+  background-color: pink;
+  width: 33.33%;
+}
+
+.Content {
+  display: flex;
+
+  height: 50vh;
+}
+
+.Page-Content {
+  width: 80%;
+  background-color: darkseagreen;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Side-Bar {
+  width: 20%;
+  background-color: darkolivegreen;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Page-Footer {
+  display: block;
+  background-color: deepskyblue;
+  height: 8vh;
+}

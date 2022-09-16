@@ -5,12 +5,16 @@ const Home = () => {
     return(
         <>
             <div>
-                <h2>Los links a los Ejercicios estan abajoo</h2>
+                <h2>Bruno Beltramone</h2>
                 <NavLink to="/List">1.1-List</NavLink><br/><br/>
                 <NavLink to="/ColorChange">2.1-ColorChange</NavLink><br/><br/>
                 <NavLink to="/HeaderAndFooter">2.2-HeaderAndFooter</NavLink><br/><br/>
                 <NavLink to="/WeatherApp">2.3-WeatherApp</NavLink><br/><br/>
                 <NavLink to="/EventManagment">2.5-EventManagment</NavLink><br/><br/>
+                <NavLink to="/ReactEstilos">2.7-ReactEstilos</NavLink><br/><br/>
+                <NavLink to="/Hoc">3.1-Hoc</NavLink><br/><br/>
+                <NavLink to="/ToDoApp">3.2-ToDoApp</NavLink><br/><br/>
+                <NavLink to="/LifeCycle">3.3-LifeCycle</NavLink><br/><br/>
             </div>
         </>
     )

@@ -2,9 +2,9 @@ import React from "react";
 import { Container } from "./list_style";
 
 class List extends React.Component {
-  constructor() {
-    super();
-  }
+  // constructor() {
+  //   super();
+  // }
 
   render() {
     return (

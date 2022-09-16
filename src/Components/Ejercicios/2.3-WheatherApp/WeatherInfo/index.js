@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Container, DayContainer, Image } from "../weatherApp_style";
+import { Container, Image } from "../weatherApp_style";
 import WeatherDay from "../WeatherDay";
 import sunny from "../Images/sunny.png";
 import rainy from "../Images/rainy.png";
