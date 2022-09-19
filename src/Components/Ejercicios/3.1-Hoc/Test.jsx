@@ -1,11 +1,10 @@
 import React from "react";
+import { Div } from "./hoc_style";
 
 const Test = ({ text }) => {
   return (
     <>
-      <div style={{border:"2px solid black", width:"200px", height:"200px"}}>
-        {text}
-      </div>
+      <Div>{text}</Div>
     </>
   );
 };
