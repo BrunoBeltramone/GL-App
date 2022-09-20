@@ -17,6 +17,9 @@ const Home = () => {
                 <NavLink to="/ToDoApp">3.2-ToDoApp</NavLink><br/><br/>
                 <NavLink to="/LifeCycle">3.3-LifeCycle</NavLink><br/><br/>
                 <NavLink to="/ConditionalRender">3.4-ConditionalRender</NavLink><br/><br/>
+                <NavLink to="/PropTypesComponent">4.1-PropTypes</NavLink><br/><br/>
+                <NavLink to="/DefaultPropsComponent">4.2-DefaultPropsComponent</NavLink><br/><br/>
+                <NavLink to="/Routing">4.3-Routing</NavLink><br/><br/>
             </div>
         </>
     )
